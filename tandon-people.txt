@@ -1,0 +1,673 @@
+{'name': u'Mohamad   Talas, Ph.D., PE. PTOEAdjunct FacultyCivil Engineering'}
+{'name': u'Nabeel  Abdur RehmanPhD StudentComputer Science and Engineering'}
+{'name': u'Janice E. AberSenior LecturerChemical and Biomolecular Engineering'}
+{'name': u'Azza   Abouzied'}
+{'name': u'Robert C.  AckerbergRetired Faculty'}
+{'name': u'Mohamed Ibrahim AdamPhD CandidateCivil and Urban Engineering'}
+{'name': u'Mahmoud Abdelrahim  Ahmed, PhD, PEAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Jeong Eun AhnPh.D. CandidateCivil and Urban Engineering'}
+{'name': u'Robert  AlbanoIndustry ProfessorManagement of Technology and Inovation'}
+{'name': u'Peter  Amato'}
+{'name': u'Ralph  Amicucci'}
+{'name': u'Joseph  Anderson, Jr., M.Ed.Academic AdvisorComputer Science & Engineering'}
+{'name': u'Brad  Antoniewicz'}
+{'name': u'Stephen   ArnoldUniversity ProfessorPhysics and Chemistry'}
+{'name': u'Boris  AronovProfessorComputational, Combinatorial, and Discrete Geometry; Algorithms'}
+{'name': u'N. Sertac  ArtanIndustry Assistant ProfessorElectrical & Computer Engineering'}
+{'name': u'Pooyan  Aslani'}
+{'name': u'Elham  AzimiPhD Candidate; Graduate Research AssistantCivil and Urban Engineering'}
+{'name': u'Jonathan  BainAssociate Professor of Philosophy of ScienceTechnology, Culture and Society '}
+{'name': u'Martina  Balestra'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Arati  Baliga, Ph.D.Adjunct ProfessorDepartment of Computer Science & Engineering'}
+{'name': u'Richard J. BarillaPolytechnic Institute of New York UniversityTechnology Management'}
+{'name': u'Victor   BarinovIndustry Associate ProfessorApplied Physics'}
+{'name': u'Andrew J. Bates, Ph.D.Adjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Kurt H. Becker, PhDVice Dean for Research, Innovation and Entrepreneurship'}
+{'name': u'Mary Ann  BenedettoAdjunct HUSSHumanities/Social Sciences'}
+{'name': u'Katherine  BennettVisiting Assistant ProfessorIntegrated Digital Media'}
+{'name': u'Enrico  BertiniAssistant ProfessorComputer Science & Engineering'}
+{'name': u'Henry  BertoniProfessor EmeritusElectrical & Computer Engineering'}
+{'name': u'Aline Duarte Bessa, PhD StudentNew York UniversityComputer Science and Engineering'}
+{'name': u'Ravi  Bhatia'}
+{'name': u'Jeffrey  Bickford'}
+{'name': u'Bob  Biolsi'}
+{'name': u'Barry S. BlechermanDeputy Department Chair and Industry ProfessorFinance and Risk Engineering'}
+{'name': u'Stephan  Bless, ScDResearch ProfessorCivil and Urban Engineering & NYS Resiliency Institure'}
+{'name': u'Abdullah   BokhariNYU.POLYElectrical & Computer Engineering'}
+{'name': u'Philip  Bontrager'}
+{'name': u'Joseph   BorowiecIndustry ProfessorMechanical and Aerospace Engineering'}
+{'name': u'Jeremy  Boy, PhDPost-Doc FellowComputer Science and Engineering'}
+{'name': u'Denise  Bracamonte, MS, PMPAdjunct FacultyTechnology Management and Innovation'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Adam M. Brandenburger'}
+{'name': u'Jack  Bringardner, PhDIndustry Assistant ProfessorGeneral Engineering and Civil Engineering'}
+{'name': u'Ryan  Brunt'}
+{'name': u'Sachit  Butail'}
+{'name': u'Anthony  CaletkaAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Charles J. CamardaDistinguished Engineer in Residence'}
+{'name': u'Matthew  CampisiIndustry Assistant ProfessorElectrical & Computer Eng'}
+{'name': u'Nan  CaoResearch Assistant Professor of Computer ScienceComputer Science and Engineering'}
+{'name': u'Justin  CapposAssistant ProfessorSecurity, Operating Systems, Networks'}
+{'name': u'Pat\xa0  Caputo'}
+{'name': u'Frank A. CassaraProfessor EmeritusLong Island Graduate Center'}
+{'name': u'Salvatore  CastelliAdjunct LecturerCivil Engineering'}
+{'name': u'Alesha B Castillo, PhDAssistant ProfessorMechanical and Aerospace Engineering & Orthopaedic Surgery'}
+{'name': u"David C. ChangProfessor EmeritusChancellor's Office"}
+{'name': u'H. Jonathan   ChaoProfessorElectrical & Computer Engineering'}
+{'name': u'Raphaele  ChappeAdjunct ProfessorFinance & Risk Engineering'}
+{'name': u'Suzanne  CharnickAdjunct ProfessorCBS'}
+{'name': u'Zhibo (Chris)  ChenPhD CandidateCivil and Urban Engineering'}
+{'name': u'Jay  ChenResearch Assistant ProfessorTechnology for Development, Networked Systems, Human-Computer Interaction'}
+{'name': u'Weiqiang  ChenAssistant ProfessorMechanical and Aerospace Engineering'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Yu  Chen'}
+{'name': u'Yi-Jen   ChiangAssociate ProfessorBig Data Computation, Analysis and Visualization; Scientific Visualization; Computational Geometry; Algorithms; Robot Motion Planning'}
+{'name': u'Lawrence  ChiarelliIndustry ProfessorCivil and Urban Engineering'}
+{'name': u'Lyubov  ChigirinskayaAdjunct Chemical EngineeringChemical and Biomolecular Eng.'}
+{'name': u'Fernando  ChirigatiPhD Candidate and Research AssistantDepartment of Computer Science and Engineering'}
+{'name': u'Peter  Chorman'}
+{'name': u'Deo C. ChoudhuryProfessor Emeritus of Physics and Guest Physicist, Brookhaven National LaboratoryPhysics'}
+{'name': u'Joseph Y.J. Chow, PhD, PEAssistant ProfessorCivil and Urban Engineering'}
+{'name': u'Gregory  ChudnovskyDistinguished Industry ProfessorMathematics'}
+{'name': u'David  ChudnovskyDistinguished Industry ProfessorMathematics'}
+{'name': u'Rumi  ChunaraAssistant ProfessorComputer Science & Engineering, Global Institute of Public Health'}
+{'name': u'Ping-Tsai  Chung'}
+{'name': u'James A.  Cincotta'}
+{'name': u'Vaughan  Coleman'}
+{'name': u'Vincent  Conte'}
+{'name': u'Douglas  CookAssistant Professor of EngineeringMechanical Engineering'}
+{'name': u'James  CordistaAdjunct LecturerGeneral Engineering'}
+{'name': u'Baris  Coskun'}
+{'name': u'Mary K. CowmanAssociate Dean for Bioengineering and Professor of Biochemistry and BioengineeringChemical and Biomolecular Engineering'}
+{'name': u'Dariusz   CzarkowskiAssociate ProfessorElectrical & Computer Engineering'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u"Michael  D'EmicLecturerTechnology Management and Innovation"}
+{'name': u'Dino  Dai Zovi Hacker in ResidenceComputer Science and Engineering'}
+{'name': u'Frank  DarConte, RAAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Nirod K. DasAssociate ProfessorElectrical & Computer Engineering'}
+{'name': u'Aritra   DasguptaResearch Assistant ProfessorComputer Science and Engineering'}
+{'name': u'Kristen  DayProfessor and Associate Dean of Academic AdministrationTechnology, Culture and Society '}
+{'name': u'Francisco   de LeonAssociate ProfessorElectrical & Computer Engineering'}
+{'name': u'Mark  De Lessio, Ph.D., MBAAssistant Professor and Program Director of Industrial EngineeringTechnology Management and Innovation'}
+{'name': u'Anthony  DeakAdjunct ManagementManagement'}
+{'name': u'Charles   DeBenedittis'}
+{'name': u'Partha P. Debroy'}
+{'name': u'Matthew  DeLucaAdjunct ProfessorManagement'}
+{'name': u'Segolene   Dessertine-Panhard, PhDPost-Doctoral Fellow Finance and Risk Engineering'}
+{'name': u'Ratan Kumer DeyPhD StudentComputer Science and Engineering'}
+{'name': u'John S. Di BartoloSenior LecturerApplied Physics'}
+{'name': u'Giovanni  Di Crescenzo'}
+{'name': u'Albert   DiBernardoAdjunct FacultyCivil and Urban Engineering'}
+{'name': u'Crystal F Dilonez, M.A.Academic AdvisorComputer Science & Engineering'}
+{'name': u'Gene  R. DiResta, PhD, PEIndustry ProfessorChemical and Biomolecular Engineering'}
+{'name': u'Brendan  Dolan-GavittAssistant ProfessorComputer Science & Engineering'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Harish  DoraiswamyResearch Assistant ProfessorComputer Science & Engineering'}
+{'name': u'Philip  DorinAdjunct ProfessorTechnology Management'}
+{'name': u'Emilie  DressaireAssistant ProfessorMechanical and Aerospace Engineering'}
+{'name': u'R. Luke  DuBois, DMACo-Director / Associate Professor of Integrated Digital MediaTechnology, Culture and Society (Engineering); Music and Performing Arts Professions (Steinhardt); Interactive Telecommunications (Tisch)'}
+{'name': u'De Angela  DuffCo-Director / Industry Associate Professor of Integrated Digital MediaTechnology, Culture and Society'}
+{'name': u'Olga  DulubAdjunct ProfessorApplied Physics'}
+{'name': u'Farideh  Ebrahim Rezagah'}
+{'name': u'Roger  EisenhardtAdjunct LecturerManagement'}
+{'name': u'Ayman  ELZibak, P.E, LEED APPhD CandidateCivil and Urban Engineering'}
+{'name': u'Semiha  Ergan, PhDAssistant ProfessorCivil and Urban Engineering;  Computer Science and Engineering '}
+{'name': u'Elza   ErkipProfessorElectrical and Computer Engineering'}
+{'name': u'Ben  EsnerDirector, K-12 STEM EducationUndergraduate Academics'}
+{'name': u'John C. FalcocchioProfessor of Transporation Planning and EngineeringCivil and Urban Engineering'}
+{'name': u'Yi  FangResearch Assistant ProfessorElectrical and Computer Engineering'}
+{'name': u'Anne-Laure   FayardAssociate ProfessorDepartment of Technology Management and Innovation'}
+{'name': u'James  FazioAdjunct ManagementTechnology Management'}
+{'name': u'Mariya  FeklistovaAdjunct ProfessorMathematics Department '}
+{'name': u'Cristian  FelixNYU Polytechnic School of EngineeringComputer Science and Engineering'}
+{'name': u'Daniel  Ferguson'}
+{'name': u'Joel  Fernandez'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Teresa M. FeroliAssociate Professor of EnglishTechnology, Culture and Society'}
+{'name': u'Phil  Ferrara'}
+{'name': u'Dominick  Fickeria'}
+{'name': u'James  Fishbaugh, PhDPost Doctoral FellowComputer Science & Engineering'}
+{'name': u'Vittoria  Flamini, PhDIndustry Assistant ProfessorMechanical and Aerospace Engineering'}
+{'name': u'Jonathan  Flowers'}
+{'name': u'Robert   FlynnEmeritus FacultyComputer Science and Engineering'}
+{'name': u'Lorcan M. FolanAssociate Professor and Department ChairApplied Physics'}
+{'name': u'Enrico  Fonda'}
+{'name': u'Phyllis   FranklProfessorComputer Science and Engineering'}
+{'name': u'Juliana  Freire, Ph.D.ProfessorComputer Science & Engineering'}
+{'name': u'Peter M. Fried'}
+{'name': u'Ivan  FrischNYU School of Engineering Presidential Fellow and Professor EmeritusComputer Science and Engineering Department'}
+{'name': u'Andrew  Gadzic'}
+{'name': u'Jean   GallagherProfessor of EnglishTechnology, Culture and Society'}
+{'name': u'Evan   GallagherLecturerComputer Science and Engineering'}
+{'name': u'Kevin  GallagherGraduate StudentComputer Science and Engineering'}
+{'name': u'Bruce  GaretzProfessorChemical and Biomolecular Engineering'}
+{'name': u'Siddharth  GargAssistant ProfessorElectrical and Computer Engineering'}
+{'name': u'Amakoe  GbedemahAdjunct LecturerMathematics'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Thewodros K. Geberemariam , Ph.D., P.E., D. WRE.Research Scientist / Adjunct Professor Civil Engineering '}
+{'name': u'Gunter W GeorgiIndustry ProfessorGeneral Engineering'}
+{'name': u'Guido  Gerig, PhDInstitute ProfessorComputer Science & Engineering'}
+{'name': u'Masoud   GhandehariAssociate ProfessorCivil and Urban Engineering'}
+{'name': u'Samaneh  GholitabarPhD Candidate; Graduate Research AssistantCivil and Urban Engineering '}
+{'name': u'Joseph M. GiglioAdjunct ProfessorCivil Engineering'}
+{'name': u'Ernest R. GilmontAdjunct ProfessorTechnology Management and Innovation'}
+{'name': u'Ari  Ginsberg'}
+{'name': u'Paul  Giura, PhDAdjunct ProfessorComputer Science & Engineering'}
+{'name': u'Dimitrios  Gkenosis'}
+{'name': u'Saar  Golde, Ph.D.NYU Polytechnic School of EngineeringFinance and Risk Engineering'}
+{'name': u'Allan B. GoldsteinLecturerTechnology, Culture and Society'}
+{'name': u'David   GoodmanNYU School of Engineering Presidential Fellow and Professor EmeritusElectrical & Computer Engineering'}
+{'name': u'Alvin  GoodmanProfessor EmeritusCivil and Urban Engineering'}
+{'name': u'Ashwin  GopiThe Polytechnic School of Engineering at NYUTechnology Management and Innovation'}
+{'name': u'Sanjay  GoyalPhD CandidateElectrical and Computer Engineering'}
+{'name': u'Sara  Grant'}
+{'name': u'Mark   GreenProfessorChemical and Biomolecular Engineering'}
+{'name': u'Michael   GreensteinIndustry ProfessorTechnology Management & Innovation'}
+{'name': u'Fletcher H. GriffisProfessor and DirectorCenter for Const. Management Innovation and NYS Resilience Institute for Storms and Emergencies'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Dan  GuidoHacker in ResidenceComputer Science and Engineering'}
+{'name': u'Xiaofei  GuoPhD StudentElectrical and Computer Engineering'}
+{'name': u'Nikhil   GuptaAssociate ProfessorMechanical and Aerospace Engineering'}
+{'name': u'Philip  HabibAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Haldun  HadimiogluIndustry ProfessorParallel processing, computer architecture, reconfigurable systems, nanotechnology'}
+{'name': u'Tzipora  HaleviPostdoctoral INSPIRE fellowComputer Science and Engineering'}
+{'name': u'Maeda  HanafiDesign Technology Lab'}
+{'name': u'Ryan L. HartmanAssistant ProfessorChemical and Biomolecular Engineering'}
+{'name': u'Robert  Harvey'}
+{'name': u'Suryanarayan G. Hegde'}
+{'name': u'Lisa   HellersteinProfessorTheory, Algorithms, Machine Learning'}
+{'name': u'Tom  HellingLecturerTechnology Management and Innovation'}
+{'name': u'Ali  HeronComputer Science'}
+{'name': u'William  HeryResearch Professor'}
+{'name': u'Tuan-Anh  Hoang-VuPh.D. candidateComputer Science and Engineering'}
+{'name': u'Paul M. HornSenior Vice Dean for Strategic Initiatives and Entrepreneurship; Distinguished Industry ProfessorDepartment of Technology Management and Innovation'}
+{'name': u'Bohdan   HoshovskyMSM and BSBTM Academic and Administrative Program  Director Department of Technology Management'}
+{'name': u'Faruque  Hossain, PhDAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Mohsen  HosseinIndustry ProfessorCivil and Urban Engineering'}
+{'name': u'Seyedamirhossein (Amir)  HosseiniPh.D. CandidateElectrical and Computer Engineering'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Benjamin  Hughes'}
+{'name': u'Jerry M. HultinFaculty (on Sabbatical Leave)Executive Management'}
+{'name': u'Alan S. HymanManagement of Technology and Innovation'}
+{'name': u'John   IaconoProfessorComputer Science and Engineering'}
+{'name': u'Sufian N Ikhmeis'}
+{'name': u'Aaron  IsaksenPhD CandidateComputer Science and Engineering'}
+{'name': u'Magued G. IskanderProfessor and Department ChairCivil and Urban Engineering'}
+{'name': u'Shariful  Islam, PEPhD CandidateCivil and Urban Engineering'}
+{'name': u'Andrey  ItkinAdjunct ProfessorFinance and Risk Engineering'}
+{'name': u'Saif Eddin   Jabari, PhDAssistant Professor, NYUAD, Research Assistant Professor, NYU-SOECivil and Urban Engineering'}
+{'name': u'Rachel  JacobovitsAdjunct LecturerMathematics'}
+{'name': u'Ramesh  JagannathanProfessor of PracticeChemical and Biological Engineering'}
+{'name': u'Saeed  JazebiNYU Polytechnic School of EngineeringElectrical and Computer Engineering'}
+{'name': u'Zubin  Jelveh'}
+{'name': u'Zhong-Ping   JiangProfessor5 MetroTech Center, 2nd Floor'}
+{'name': u'Yu  Jiang, PhDAlumni ELECTRICAL & COMPUTER ENGINEERING'}
+{'name': u'Bertha Teresa JimenezPhD StudentTechnology Management and Innovation'}
+{'name': u'Weihua  JinIndustry ProfessorCivil and Urban Engineering'}
+{'name': u'Ming  Jin'}
+{'name': u'Inga  Jukneviciute'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Ilan   JuranProfessor, Executive DirectorUrban Infrastructure Institute'}
+{'name': u'Hellmut   JuretschkeProfessor EmeritusApplied Physics'}
+{'name': u'Ardis   Kadiu'}
+{'name': u'Iraj M. KalkhoranAssociate Dean of Undergraduate AcademicsAerospace Engineering'}
+{'name': u'Zhengjian  Kang'}
+{'name': u'Sachhidh  KannanPh.D. Graduate (Class of 2015)Electrical and Computer Engineering'}
+{'name': u'Raman  KannanAdjunct ManagementTechnology Management'}
+{'name': u'Arun  Kanuparthi, PhDIntel CorporationSecurity Center of Excellence (SeCoE)'}
+{'name': u'Dr. Vikram   KapilaProfessorMechanical and Aerospace Engineering'}
+{'name': u'Michael  KarleskyPh.D. CandidateComputer Science and Engineering'}
+{'name': u'Ramesh   KarriProfessorElectrical and Computer Engineering'}
+{'name': u'Dana  KarwasLecturerTechnology, Culture and Society'}
+{'name': u'Sina  Kashuk, PhDAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Manpreet S Katari'}
+{'name': u'John  KatsigeorgisAdjunct LecturerChemical & Biological Sciences'}
+{'name': u'Alex  KattamisAdjunct Assistant ProfessorApplied Physics'}
+{'name': u'Daniel   Katz-BraunschweigLecturerComputer Science and Engineering'}
+{'name': u'Harold G. Kaufman, PhDProfessorDepartment of Technology Management and Innovation'}
+{'name': u'Omar  Khair-EldinAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Ahmed Abdel Samea Khalifa, PhD'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Farshad   KhorramiProfessorElectrical & Computer Engineering'}
+{'name': u'Vanita  KhoslaLecturer and Director of Undergraduate StudiesMathematics'}
+{'name': u'Jin Ryoun KimAssociate ProfessorChemical and Biomolecular Engineering'}
+{'name': u'Joo  H. KimAssociate ProfessorMechanical and Aerospace Engineering'}
+{'name': u'Taehoon  Kim'}
+{'name': u'Michael  KnoxIndustry Professor Engineer in Residence'}
+{'name': u'Ahmet  Kok'}
+{'name': u'Dimitrios  KonstantakosAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Constantine E. KontokostaAssistant Professor; Deputy Director for Academics & Head, Quantified CommunityCivil and Urban Engineering/Center for Urban Science and Progress'}
+{'name': u'Tien-You  Koong'}
+{'name': u'Steven E. KooninProfessorCivil Engineering'}
+{'name': u'Thanasis  KorakisResearch Assistant Professor Electrical and Computer Engineering Department'}
+{'name': u'Jay  KovenPhD CandidateComputer Science and Engineering'}
+{'name': u'Josua  KrausePhD CandidateComputer Science'}
+{'name': u'Sunil   KumarProfessorMechanical and Aerospace Engineering'}
+{'name': u'Spencer Szu-ping Kuo, PhDProfessorElectrical & Computer Engineering'}
+{'name': u'Howard A. KupfermanAdjunct ProfessorManagement'}
+{'name': u'Trishank Karthik KuppusamyPh.D. CandidateComputer Science and Engineering'}
+{'name': u'Lembit  Kutt, Ph.D.Adjunct FacultyCivil and Urban Engineering'}
+{'name': u'Akhil  LalAdjunct ProfessorApplied Physics'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Gad M. LandauResearch ProfessorComputer Science and Engineering'}
+{'name': u'SangHoon  Nathan LeeIndustry Assistant Professor; Undergraduate Acamedic AdvisorMechanical and Aerospace Engineering'}
+{'name': u'Tommy S. LeeSenior Lecturer and Director of Undergraduate BMS Program Chemical and Biomolecular Engineering'}
+{'name': u'Mark  Lee'}
+{'name': u'David G. LeferDirector of the Innovation and Technology Forum, Industry ProfessorGeneral Engineering, Undergraduate Academics'}
+{'name': u'Christopher   LeslieLecturer; Co-Director, Science and Technology StudiesTechnology, Culture and Society'}
+{'name': u'Brian R Lessing, FSA, MAAAAdjunct ProfessorFinance & Risk Engineering'}
+{'name': u'Kok-Ming   LeungProfessorComputer Science and Engineering'}
+{'name': u'Rastislav   LevickyDonald F Othmer Associate ProfessorChemical and Biomolecular Engineering'}
+{'name': u'Kalle   LevonResearch ProfessorChemical and Biomolecular Engineering'}
+{'name': u'James P. LewisLecturer of Science, Technology and Society and of Society, Environment and GlobalizationTechnology, Culture and Society'}
+{'name': u'Tao  LiPh.D. CandidateComputer Science and Engineering'}
+{'name': u'Peter  LiAdjunct LecturerGeneral Engineering'}
+{'name': u'Hai  LiAssistant ProfessorElectrical and Computer Engineering'}
+{'name': u'Yiwen  Li'}
+{'name': u'Burton  LiebermanProfessor EmeritusMathematics'}
+{'name': u'Ching-Yung  Lin'}
+{'name': u'Patrick  LindenAdjunct ProfessorTechnology, Culture and Society'}
+{'name': u'Elisa   LinskyLanguage LecturerExpository Writing New York University'}
+{'name': u'Pei   LiuResearch Assistant ProfessorCATT'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Yong   LiuAssociate ProfessorElectrical & Computer Engineering'}
+{'name': u'Engui  LiuPhD Candidate; Research FellowCivil and Urban Engineering'}
+{'name': u'Michel  LobenbergAdjunct LecturerMathematics'}
+{'name': u'Frank  LombardiAdjunct FacultyCivil and Urban Engineering'}
+{'name': u'Jong  LouAdjunctCivil and Urban Engineering'}
+{'name': u'Raoni  Louren\xe7oPhD CandidateDepartment of Computer Science and Engineering'}
+{'name': u'I-Tai   LuProfessorElectrical & Computer Engineering'}
+{'name': u'Jonathan S. LuPHD StudentElectrical and Computer Engineering'}
+{'name': u'Monika   LudwigProfessorMathematics'}
+{'name': u'Kelly A Lum'}
+{'name': u'Liming  Luo'}
+{'name': u'D\u0169ng (Dzung) Dinh Luong, Ph.D.Industry Assistant ProfessorMechanical and Aerospace Engineering'}
+{'name': u'Erwin   LutwakProfessor and Department ChairMathematics'}
+{'name': u'Yaser  MPhD CandidateCivil and Urban Engineering'}
+{'name': u'Nick  MachairasPhD Candidate; Graduate Research Assistant; Tandon Online CoordinatorCivil and Urban Engineering'}
+{'name': u'Samer  MadanatDean of Engineering, NYUADCivil and Urban Engineering'}
+{'name': u'Robert  Maffia'}
+{'name': u'Phillip  Mak'}
+{'name': u'Richard  MalchowAdjunct FacultyCivil and Urban Engineering'}
+{'name': u'Lyudmila  MalikovaAdjunct ProfessorApplied Physics'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Corey  Malone'}
+{'name': u'Roula   Maloof, PhDSenior LecturerCivil and Urban Engineering'}
+{'name': u'Shlomo  MandelAdjunct ProfessorFinancial Engineering'}
+{'name': u'Michail  Maniatakos Research Assistant ProfessorElectrical and Computer Engineering'}
+{'name': u'Harvansh   ManochaIndustry ProfessorMathematics'}
+{'name': u'Antonio   Marinucci'}
+{'name': u'Sylvia  Kasey MarksProfessor of EnglishTechnology, Culture and Society'}
+{'name': u'Ingrid  MarshallAdjunct ProfessorFinancial Engineering'}
+{'name': u'Charles P. MartucciSenior LecturerChemical and Biomolecular Engineering'}
+{'name': u'Philip  MayminFormer Assistant Professor of Finance and Risk Engineering'}
+{'name': u'Damon  McCoyAssistant ProfessorComputer Science & Engineering'}
+{'name': u'John T. McDevitt, Ph.D.ChairBiomaterials Department'}
+{'name': u"Sir Jim  McDonald, BSc, MSc, PhD, DSc, CEngNYU School of Engineering Presidential Fellow and Professor Sir Principal/Vice ChancellorPrincipal's Office"}
+{'name': u'Suzanne  McIntoshAdjunct ProfessorComputer Science and Engineering'}
+{'name': u'Luciano Manuel Medina, PhDLecturerMathematics'}
+{'name': u'Michael Patrick MeehanAdjunct ProfessorCivil Engineering, Construction Management'}
+{'name': u'Edward  MelcerPhD CandidateComputer Science and Engineering'}
+{'name': u'Nasir   MemonProfessor and Department HeadComputer Science and Engineering'}
+{'name': u'Andre  Mendes da SilvaPhD StudentComputer Science'}
+{'name': u'Frank  MeolaAdjunct ProfessorTechnology, Culture and Society'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Roy C Messaros, Ph.D., PWS, CFMAdjunct FacultyEnvironmental Engineering and Science'}
+{'name': u'Jovan   MijovicProfessorChemical and Biomolecular Engineering'}
+{'name': u'Edward   MillerProfessorMathematics'}
+{'name': u'Marc  Miller'}
+{'name': u'Arman  MimarTeaching FacultyMathematics'}
+{'name': u'Tehila  MinkusPhD CandidateComputer Science and Engineering'}
+{'name': u'Lewis  Mintzer'}
+{'name': u'Fabio Markus Miranda'}
+{'name': u'Mark  MishkenAdjunct ManagementManagement'}
+{'name': u'Bhubaneswar  Mishra, Ph.D.Professor, Computer ScienceNYU Courant Institute of Mathematical Sciences'}
+{'name': u'Alan H. MolofProfessor EmeritusCivil and Urban Engineering'}
+{'name': u'Jin Kim Montclare, PhDAssociate ProfessorChemical and Biomolecular Engineering'}
+{'name': u'Paul  MorarescuIndustry Associate ProfessorComputer Science & Engineering'}
+{'name': u'Herbert  MorawetzProfessor Emeritus'}
+{'name': u'Troy A. Morgan, PhD, PEAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Pavlos  Mourdoukoutas'}
+{'name': u'Narges S. Susan Mousavi, PhDVisiting Assistant ProfessorMechanical and Aerospace Engineering'}
+{'name': u'Mahmoud  Moussa, PE, LEED APPhD CandidateCivil and Urban Engineering'}
+{'name': u'Walid Amin Abou MoussaAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'David   MugglinSenior LecturerApplied Physics'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Benjamin  NachumiAdjunct ProfessorApplied Physics'}
+{'name': u'Joseph  Nadan, PhDIndustry Professor - Management of Business and Technology InnovationDepartment of Technology Management and Innovation'}
+{'name': u'Alan   NadlerLecturerTechnology, Culture and Society'}
+{'name': u'Mehdi  Naghdi TamAdjunct LecturerMechanical and Aerospace Engineering'}
+{'name': u'Bayan  Nasri'}
+{'name': u'Andy  NealenAssistant ProfessorGame Engineering, Computer Graphics, Perceptual Science'}
+{'name': u'Carl  NelsonAdjunct ManagementTechnology Management'}
+{'name': u'Lucas  Nelson'}
+{'name': u'Toan Van NguyenNew York University School of EngineeringComputer Science and Engineering'}
+{'name': u'Said   NourbakhshProfessorMechanical and Aerospace Engineering'}
+{'name': u'Oded   NovAssociate ProfessorDepartment of Technology Management and Innovation'}
+{'name': u'Beth Simone NoveckJerry M. Hultin Professor and DirectorThe Governance Lab '}
+{'name': u'Frederick   NovomestkyIndustry ProfessorFinance & Risk Engineering'}
+{'name': u'Unurjargal   Nyambuu, PhDPost-Doctoral FellowFinance and Risk Engineering'}
+{'name': u'Yaw  NyarkoTechnology Management and Innovation'}
+{'name': u"Keith  O'BrienAdjunct ProfessorComputer Science and Engineering"}
+{'name': u"Michael  O'NeilAssistant ProfessorMathematics"}
+{'name': u'Yoshi  Okamoto Research Professor and Director of Polymer Research InstitutePolymer Research Institute'}
+{'name': u'Arthur  OlinerNYU School of Engineering Presidential Fellow and Professor Emeritus of ElectrophysicsDepartment of Electrical and Computer Engineering'}
+{'name': u'Jay   OmResearch ProfessorCivil and Urban Engineering'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Mehdi  OmidvarPh.D.Civil and Urban Engineering'}
+{'name': u'John   OsbornAdjunct FacultyConstruction, Engineering, and Management'}
+{'name': u'Vladimir   OstrovskySenior LecturerApplied Physics'}
+{'name': u'Robert  OtrubaAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Kaan  OzbayProfessorCivil and Urban Engineering / Center for Urban Science and Progress (CUSP)'}
+{'name': u'Ozgur  Ozkan'}
+{'name': u'Vikram  Padman'}
+{'name': u'James  PaguagaDepartment of Technology Management'}
+{'name': u'Massimiliano  PalaResearch ProfessorComputer Science & Engineering'}
+{'name': u'Prabodh  PanindreSr. Research Scientist Mechanical & Aerospace Engineering'}
+{'name': u'Shivendra   PanwarProfessor and Department ChairElectrical and Computer Engineering & Director, CATT'}
+{'name': u'Thanos  Papadopoulos'}
+{'name': u'Andrew  PapanicolaouAssistant ProfessorFinance and Risk Engineering'}
+{'name': u'Shahryar  Pasha Zadeh MonajjemiPhD Candidate; Graduate Teaching AssistantCivil and Urban Engineering'}
+{'name': u'Raman  Patel, Ph.D.Adjunct FacultyCivil and Urban Engineering'}
+{'name': u'Sameer   Patil, Ph.D.Assistant Research ProfessorComputer Science and Engineering'}
+{'name': u'Aristides  A  Patrinos Professor and Deputy Director Research, CUSPChemical and Biomolecular Engineering'}
+{'name': u'Sai Teja  PeddintiPhD CandidateComputer Science and Engineering'}
+{'name': u'Yifeng  Peng'}
+{'name': u'Ronald   Pennella'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Antonio  PepenellaAdjunct ProfessorFinance & Risk Engineering'}
+{'name': u'Richard  Perez'}
+{'name': u'Sean D. PetersonVisiting Assistant ProfessorMechanical Engineering'}
+{'name': u'Vladimir  PetricevicAdjunct ProfessorApplied Physics'}
+{'name': u'Georgi I. Petrov, PE AIAAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Kien  PhamPhD Candidate and Research AssistantDepartment of Computer Science and Engineering'}
+{'name': u'Donald S. PhillipsSenior Lecturer of Science, Technology and Society and of Society, Environment and GlobalizationTechnology, Culture and Society'}
+{'name': u'Jorge Henrique Piazentin OnoComputer Science and Engineering'}
+{'name': u'Unnikrishna   PillaiProfessorElectrical & Computer Engineering'}
+{'name': u'Richard A. Pi\xf1aPolytechnic Institute of New York UniversityTechnology Management'}
+{'name': u'David  PineProfessor and Department ChairChemical and Biomolecular Engineering'}
+{'name': u'Jorge  PocoComputer Science and Engineering'}
+{'name': u'Myron   PollackSenior LecturerChemical and Biomolecular Engineering'}
+{'name': u'Maurizio   PorfiriProfessorMechanical and Aerospace Engineering'}
+{'name': u'Rafail  Portnoy'}
+{'name': u'Shekhar S Pradhan'}
+{'name': u'Poramate (Tom)  Pranayanuntana, PhDLecturerMathematics'}
+{'name': u'Patrick Joseph PranclAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Elena S. PrassasAssociate ProfessorCivil and Urban Engineering'}
+{'name': u'Dorian   PuleriAdjunct InstructorMathematics'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Jinghua  QianSenior LecturerMathematics'}
+{'name': u'Wanqiong  Qiao'}
+{'name': u'Albert  RafetsederResearch ProfessorComputer Science and Engineering'}
+{'name': u'Siva Raj  Rajagopalan'}
+{'name': u'Jeyavijayan  RajendranElectrical and Computer Engineering'}
+{'name': u'Shaloo  Rakheja, PhDAssistant ProfessorElectrical and Computer Engineering'}
+{'name': u'R\xe9mi  RampinResearch Engineer'}
+{'name': u'Sundeep  RanganAssociate ProfessorElectrical and Computer Engineering'}
+{'name': u'Bharat   RaoAssociate Professor and Department ChairDepartment of Technology Management and Innovation'}
+{'name': u'Patrick  RappAdjunct ProfessorApplied Physics'}
+{'name': u'Theodore S. RappaportDirector, NYU WIRELESS; David Lee/Ernst Weber Professor of Electrical Engineering;  Professor of Computer Science at NYU Courant; Professor of Radiology, NYU School of MedicineElectrical and Computer Engineering'}
+{'name': u'Alexander  RaspopinAdjunct ProfessorApplied Physics'}
+{'name': u'Gregory  RecineResearch ProfessorApplied Physics'}
+{'name': u'Thomas  ReddingtonIndustry ProfessorComputer Science & Engineering'}
+{'name': u'Mandar S Rege'}
+{'name': u'John  ReillyAdjunct ManagementTechnology Management'}
+{'name': u'Alessandro  Rizzo, Ph.D.Visiting ProfessorOffice of Innovation'}
+{'name': u'Juan  Rodriguez'}
+{'name': u'Patricia  Rodriguez'}
+{'name': u'William  Rodwick'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Roger Peter RoessProfessor EmeritusCivil and Urban Engineering'}
+{'name': u'Joel Carle W. RogersProfessorMathematics'}
+{'name': u'Anne Dudek Ronan, PhD, PEIndustry ProfessorCivil and Urban Engineering'}
+{'name': u'Beth  RosenbergAdjunct HUSSDigital Media'}
+{'name': u'Keith W. RossLeonard J. Shustek ProfessorComputer Science and Engineering'}
+{'name': u'Tony  Rothman, Ph.DLecturerApplied Physics'}
+{'name': u'Ashkan  Rowshanrad, M.S.Adjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Aditi  RoyPost Doctoral FellowComputer Science and Engineering'}
+{'name': u'Paul  Russo, Ph.D.New York University Polytechnic School of EngineeringTechnology Management'}
+{'name': u'Talal A SaadPhD CandidateCivil and Urban Engineering'}
+{'name': u'Samah Mohamed Ahmed Saeed, PhDNew York University Polytechnic School of EngineeringDepartment of Computer Science and Engineering'}
+{'name': u'Iskender  Sahin, PhDIndustry ProfessorMechanical and Aerospace Engineering'}
+{'name': u'Sambit  Sahu'}
+{'name': u'Marika A. SamGrants & Proposals ManagerComputer Science & Engineering'}
+{'name': u'Luis  SanchezAdjunct FacultyCivil and Urban Engineering'}
+{'name': u'Gennaro  SansoneAdjunct FacultyCivil and Urban Engineering'}
+{'name': u'Shashi  SathayeAdjunct ProfessorInterdisciplinary Programs'}
+{'name': u'Raymond  Savino'}
+{'name': u'Lowell   ScheinerAssociate Professor of Humanities and CommunicationTechnology, Culture and Society'}
+{'name': u'A George  SchillingerResearch ProfessorManagement'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Anatoly  Schmidt'}
+{'name': u'Michael  SchumacherAdjunct ProfessorDigital Media'}
+{'name': u'Joel  Sciascia, Esq.Adjunct Faculty'}
+{'name': u'Adis  Sehic, Ph.DAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Alexandra  SeidensteinLecturerChemical and Biomolecular Engineering'}
+{'name': u'Ivan W. SelesnickProfessorElectrical & Computer Engineering'}
+{'name': u'Linda  SellieIndustry Assistant ProfessorComputer Science and Engineering'}
+{'name': u'Jeremy  Seto'}
+{'name': u'Davood  ShahrjerdiAssistant Professor, Principle InvestigatorElectrical and Computer Engineering'}
+{'name': u'Valery A. SheverevIndustry ProfessorApplied Physics'}
+{'name': u'Ilya B. Shleykov, Ph.D., P.E., LEED AP BD+CAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Siyka I  ShopovaAdjunct ProfessorApplied Physics'}
+{'name': u'Hossein  SiadatiNYU School of EngineeringDepartment of Computer Science and Engineering'}
+{'name': u'Alexey  Sidelev, PhD, PEAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Claudio  SilvaProfessorComputer Science & Engineering'}
+{'name': u'Ozgur  SinanogluResearch Assistant Professor'}
+{'name': u'Marshall  SittenAdjunct ProfessorTechnology Management and Innovation'}
+{'name': u'Harold P. SjursenIndustry Professor of PhilosophyTechnology, Culture and Society (On Leave, Fall 2013 - Spring 2015)'}
+{'name': u'Mark  SkwarekLecturer of Integrated Digital MediaTechnology, Culture and Society'}
+{'name': u'Ronald T Slivka, PhDAdjunct ProfessorFinance & Risk Engineering'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Davida  Smyth'}
+{'name': u'Jonathan M. SofferProfessor of History and Department ChairTechnology, Culture and Society'}
+{'name': u'Gerard  Soffian, PEAdjunct FacultyCivil and Urban Engineering'}
+{'name': u'Gerard  Soffian'}
+{'name': u'Qing  SongIndustry Assistant ProfessorChemical and Biomolecular Engineering'}
+{'name': u'David  Soukup, P.E.Adjunct Professor'}
+{'name': u'Katepalli R. SreenivasanPresident and Dean of Engineering at NYU; The Eugene Kleiner Professor for Innovation in Mechanical EngineeringOffice of the Dean of Engineering at NYU'}
+{'name': u'Stuart   SteeleAssociate Department Head and Industry ProfessorComputer Science and Engineering'}
+{'name': u'John   SterlingIndustry ProfessorComputer Science and Engineering'}
+{'name': u'Richard  Stern'}
+{'name': u'Fred   StraussIndustry Associate ProfessorComputer Science and Engineering'}
+{'name': u'Torsten   SuelProfessorInformation Retrieval, Databases, Algorithms'}
+{'name': u'Eduardo  Suescun, Ph.D.Research Scientist - Adjunct FacultyCivil and Urban Engineering'}
+{'name': u'Yagiz  Sutcu'}
+{'name': u'Paul  SuttonAdjunct Mech EngineeringMechanical Engineering'}
+{'name': u'Angelo  Tafuni, Ph.D.Visiting Assistant ProfessorMechanical and Aerospace Engineering'}
+{'name': u'Itay  TalIndustry Assistant ProfessorComputer Science and Engineering'}
+{'name': u'Nassim Nicholas TalebDistinguished Professor of Risk EngineeringFinance and Risk Engineering'}
+{'name': u'Fred  Tamayo, PEAdjunct FacultyCivil'}
+{'name': u'Theodor  TamirInstitute Professor EmeritusElectrical and Computer Engineering'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Charles S. TapieroTopfer Distinguished Professor of Financial Engineering and Technology Management; Founder, Department of Finance and Risk Engineering; Director, The Extreme Risk Initiative Finance and Risk Engineering'}
+{'name': u'Paolo  Taticchi Adjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Iwao   TeraokaProfessorChemical and Biomolecular Engineering'}
+{'name': u'John  Terrill'}
+{'name': u'Richard S. ThorsenDepartment Chair and Vice President EmeritusMechanical and Aerospace Engineering'}
+{'name': u'Julian   TogeliusAssociate ProfessorArtificial Intelligence in Games, Procedural Content Generation, Player Modelling'}
+{'name': u'Jack Craig  ToolinAdjunct HUSSDigital Media'}
+{'name': u'Agnes  TourinIndustry Assistant ProfessorFinance and Risk Engineering'}
+{'name': u'Vladimir   TsifrinovichAssociate Industry ProfessorApplied Physics'}
+{'name': u'Nektarios  TsoutsosComputer Science and Engineering'}
+{'name': u'Robert N   UbellVice Dean, Online LearningNYU Tandon Online & Enterprise Learning'}
+{'name': u'Jose Miguel UlerioIndustry ProfessorCivil and Urban Engineering'}
+{'name': u'Abraham   UlmanProfessorChemical and Biomolecular Engineering'}
+{'name': u'Mehul J Vaidya'}
+{'name': u'Richard  Van SlykeAdjunct ProfessorUnknown'}
+{'name': u'Lindsey   Van Wagenen Senior Lecturer, Director of Sophomore MathematicsMathematics'}
+{'name': u'Haralambos  VasiliadisAdjunct FacultyCivil and Urban Engineering'}
+{'name': u'Ali  VedavarzAdjunct ProfessorMechanical Engineering'}
+{'name': u'Louis  Venech'}
+{'name': u'John  Viega'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Jonathan  ViventiAssistant ProfessorElectrical and Computer Engineering'}
+{'name': u'Huy T. VoResearch Assistant ProfessorComputer Science & Engineering'}
+{'name': u'Peter  VoltzAssociate ProfessorElectrical and Computer Engineering'}
+{'name': u'George   VradisAssociate ProfessorMechanical and Aerospace Engineering'}
+{'name': u'Tra   Vu, Ph.D., PEAdjunct FacultyCivil and Urban Engineering '}
+{'name': u'Evgeny   VulfsonIndustry ProfessorChemical and Biomolecular Engineering'}
+{'name': u'Yao   WangProfessorElectrical & Computer Engineering'}
+{'name': u'Pengfei  Wang'}
+{'name': u'Meng  Wang'}
+{'name': u'Yin   WangPhD CandidateCivil and Urban Engineering'}
+{'name': u'Zhu  WangPhD StudentComputer Science and Engineering'}
+{'name': u'Edward   WeilResearch ProfessorPolymer Research Institute'}
+{'name': u'Joel M. WeinAssociate ProfessorComputer Science and Engineering'}
+{'name': u'Edward  WeinbergerAdjunct ProfessorFinancial Engineering'}
+{'name': u'Klaus-Dieter  WeltmannVisiting ProfessorApplied Physics'}
+{'name': u'Richard  Elliot WenerProfessor of Environmental PsychologyTechnology, Culture and Society'}
+{'name': u'Joshua  WexlerAdjunct Professor'}
+{'name': u'Sung   WhangProfessorMechanical Engineering'}
+{'name': u'Jerome B. White, P.E.Adjunct ProfessorCivil Engineering'}
+{'name': u'Alfonso  WhuAdjunct ProfessorCivil and Urban Engineering'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'James  Wielaard, PhDIndustry Associate ProfessorMathematics'}
+{'name': u'Gabriel  WinerAdjunct FacultyTechnology, Culture & Society'}
+{'name': u'Fred  WinterAdjunct CISComputer Information Sciences'}
+{'name': u'Edward   WolfProfessorApplied Physics'}
+{'name': u'Edward K. WongAssociate ProfessorComputer Science and Engineering'}
+{'name': u'Carmen  Wong-UlrichIACP Fin/Risk Eng 9mFinance & Risk Engineering'}
+{'name': u'Wuping  Xin, Ph.D., PEAdjunct FacultyCivil and Urban Engineering'}
+{'name': u'Zhaoxia  XuAssistant ProfessorFinance and Risk Engineering'}
+{'name': u'Yang  XuResearch Associate ProfessorElectrical & Computer Engineering'}
+{'name': u'Tiantian  XuPolytechnic Institute of NYUComputer Science'}
+{'name': u'Lok Kwong  Yan'}
+{'name': u'Yisong   YangProfessorMathematics'}
+{'name': u'Deane   YangProfessorMathematics'}
+{'name': u'Sung-ho  YoonResearch ScientistCivil Engineering'}
+{'name': u'Dante C. YoulaNYU School of Engineering Presidential Fellow and Professor EmeritusDepartment of Electrical and Computer Engineering'}
+{'name': u'Bowen  Yu'}
+{'name': u'Zivan   ZabarProfessorElectrical & Computer Engineering'}
+{'name': u'Gaoyong   ZhangProfessorMathematics'}
+{'name': u'Qi  ZhangPh.D candidateChemical and Biomolecular Engineering'}
+{'name': u'Peiji  ZhaoResearch Assistant ProfessorApplied Physics'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Xuan  Zhao'}
+{'name': u'Zhengxue  ZhaoAdjunct Electrical EngineeringElectrical & Computer Eng'}
+{'name': u'Fang  ZhaoLecturerMathematics'}
+{'name': u'Jinkai  ZhouPhD CandidateCivil and Urban Engineering'}
+{'name': u'Quanyan  Zhu, PhDAssistant ProfessorElectrical and Computer Engineering'}
+{'name': u'Yanyan  Zhuang Research Assistant ProfessorComputer Science and Engineering'}
+{'name': u'Edward N. ZieglerRetired FacultyChemical and Biomolecular Engineering'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
+{'name': u''}
+{'name': u'Xuan  Zhao'}
+{'name': u'Zhengxue  ZhaoAdjunct Electrical EngineeringElectrical & Computer Eng'}
+{'name': u'Fang  ZhaoLecturerMathematics'}
+{'name': u'Jinkai  ZhouPhD CandidateCivil and Urban Engineering'}
+{'name': u'Quanyan  Zhu, PhDAssistant ProfessorElectrical and Computer Engineering'}
+{'name': u'Yanyan  Zhuang Research Assistant ProfessorComputer Science and Engineering'}
+{'name': u'Edward N. ZieglerRetired FacultyChemical and Biomolecular Engineering'}
+{'name': u'Undergraduate Admissions\nHow to Apply\nApply Now\nLearn More\nadmissions@nyu.edu\n'}
+{'name': u'Graduate Admissions\nRequirements\nApply Now\nLearn More\nengineering.gradinfo@nyu.edu\n'}
+{'name': u'Site Links\nPress\nDirectory\nDirections\nEvent Calendar\nCareers and HR\n'}
+{'name': u'Technical Support\nEmail / Networksoehelpdesk@nyu.eduWebsiteengineering.webteam@nyu.eduLogin (Faculty + Staff)'}
