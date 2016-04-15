@@ -1,6 +1,6 @@
 # Tandon-NYU
 
-Simple scraper for Tandon School of Engineering at NYU faculty index.
+Simple scraper for Tandon School of Engineering at NYU faculty Index (http://engineering.nyu.edu/people).
 The index is 27 pages long, and this scraper stores all of the contents on all 27 pages to a
 local HTML file ("tandon-nyu-pagecontents.html").
 
